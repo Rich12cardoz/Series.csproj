@@ -1,0 +1,2 @@
+# Series.csproj
+Primeiro Compromisso 
